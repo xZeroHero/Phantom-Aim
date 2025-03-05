@@ -1,0 +1,35 @@
+Enemy Movement Speed nicht viel weiter erhöhen. X
+Eher Anzahl an Gegnern erhöhen.
+
+Levels, wo die Enemy Health steigt zu schwer am Anfang.
+
+Level nicht automatisch enden lassen sondern nach x Anzahl
+an Gegnern die Option zu geben weiter zu machen.
+-> Nur Arrow Kills zählen dazu
+
+Spirit Gain für nächstes Level zu wenig im Gegensatz zu Upgrades.
+
+Base Rotation Speed erhöhen.
+
+Alle Stats ein wenig erhöhen dafür mehr Gegner spawnen.
+
+Level 3 = 10 Spirit pro Kill
+
+Demo für Lighting Arrow oder Arrow Storm wäre nice für release
+
+
+Spirit at Level 4: 322 + 6 Upgrades
+
+Spirit gain reduzieren und Enemies ab Level 3-4 drastisch erhöhen.
+Level 1 und 2 ist gut für den Anfang.
+
+
+______________________________________
+
+Spirit Gain pro Level scheint noch nicht richtig zu sein.
+
+LVL6 Monster speed zu hoch.
+Sollte vielleicht immer gleich bleiben. Wenn Gegner von oben kommen sind sie zu schnell da.
+Tod nach level Cleared zählt noch nicht als clear.
+Amount to kill maybe reduzieren Level 5+. 
+

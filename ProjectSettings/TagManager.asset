@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Arrow
+  - SpiritCost
+  - TimesBought
+  - UICanvas
+  - SkillCheckmarks
+  - EnemySpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3703208949
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arrow
+    uniqueID: 1543114705
+    locked: 0
+  - name: DeathScreenPillar
+    uniqueID: 317900787
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Pillar

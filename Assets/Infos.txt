@@ -1,0 +1,9 @@
+To Import pixel art sprites:
+Click on spritesheet
+Filter mode -> Point(no filter)
+Compression -> None
+
+Camera Settings:
+
+Projection -> Size = 1
+Add Component -> Pixel Perfect Camera
